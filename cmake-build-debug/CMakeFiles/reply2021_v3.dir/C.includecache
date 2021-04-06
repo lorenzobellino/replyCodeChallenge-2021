@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mazzi/CLionProjects/reply2021_v3/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+mylib.h
+C:/Users/Mazzi/CLionProjects/reply2021_v3/mylib.h
+
+C:/Users/Mazzi/CLionProjects/reply2021_v3/mylib.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+
